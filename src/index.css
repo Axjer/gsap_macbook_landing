@@ -1,25 +1,24 @@
 @import "tailwindcss";
 
 @font-face {
-    font-family: "Regular";
-    src: url("./fonts/regular.otf");
+  font-family: "Regular";
+  src: url("/gsap_macbook_landing/fonts/regular.otf");
 }
 
 @font-face {
-    font-family: "Medium";
-    src: url("./fonts/medium.otf");
+  font-family: "Medium";
+  src: url("/gsap_macbook_landing/fonts/medium.otf");
 }
 
 @font-face {
-    font-family: "SemiBold";
-    src: url("./fonts/semibold.otf");
+  font-family: "SemiBold";
+  src: url("/gsap_macbook_landing/fonts/semibold.otf");
 }
 
 @font-face {
-    font-family: "Bold";
-    src: url("./fonts/bold.otf");
+  font-family: "Bold";
+  src: url("/gsap_macbook_landing/fonts/bold.otf");
 }
-
 * {
     scrollbar-color: var(--color-dark-100) var(--color-black);
 }
